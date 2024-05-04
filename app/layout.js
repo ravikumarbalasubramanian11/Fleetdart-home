@@ -1,15 +1,15 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
-import favicon from "./icon.ico";
+// import favicon from "./icon.ico";
 
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "FleetDart",
   description: "FleetDart",
-  icons: {
-    icon: favicon,
-  },
+  // icons: {
+  //   icon: favicon,
+  // },
 };
 
 export default function RootLayout({ children }) {
