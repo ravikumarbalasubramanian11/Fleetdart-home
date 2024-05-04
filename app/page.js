@@ -46,7 +46,7 @@ export default function Home() {
 				</div>
 				<div class="border rounded-3xl h-[400px] w-[300px] border-green-500 flex flex-col items-center p-5">
 					<h1 class="text-2xl font-bold mb-3">Fuel Monitoring</h1>
-					<p class="text-center">Prevent theft, optimize efficiency, and stay in control of your fleet's fuel usage.</p>
+					<p class="text-center">Prevent theft, optimize efficiency, and stay in control of your fleet&apos;s fuel usage.</p>
 					<div className="relative w-full h-[50%] mt-10">
 						<Image
 							src="/welcome_4.png"
